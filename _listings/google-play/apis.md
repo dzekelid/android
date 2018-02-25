@@ -1,5 +1,4 @@
 ---
----
 name: Google Play
 description: 'The Google Play Developer API allows you to perform a number of publishing
   and app-management tasks. It includes two components: The Subscriptions and In-App
@@ -42,6 +41,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
-...
-
 ---
